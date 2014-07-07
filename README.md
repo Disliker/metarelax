@@ -1,4 +1,2 @@
 metarelax
-=========
-
-SG Community Server
+Updated
